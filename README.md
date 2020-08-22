@@ -1,5 +1,6 @@
 # psbus
 > Generic Publish / Subscribe model for application messaging
+> NOTE: This module was heavily inspired by Lakelezz's (now dormant) hey_listen: https://github.com/Lakelezz/hey_listen
 
 `psbus` allows for any application to implement their own Publish/Subscribe model for easy messaging. `psbus` currently supports the following use cases:
 * Single-threaded event dispatch
