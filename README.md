@@ -1,4 +1,7 @@
 # psbus
+[![Crates.io](https://img.shields.io/crates/v/psbus.svg)](https://crates.io/crates/psbus)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Zhendryk/psbus/blob/master/LICENSE)
+[![Crates.io](https://img.shields.io/crates/d/psbus.svg)](https://crates.io/crates/psbus)
 > Generic Publish / Subscribe model for application messaging
 
 > NOTE: This module was heavily inspired by Lakelezz's (now dormant) hey_listen: https://github.com/Lakelezz/hey_listen
